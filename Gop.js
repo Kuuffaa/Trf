@@ -11,4 +11,4 @@ class Car {
 
 const myCar = new Car("Ford", 2);
 document.getElementById("demo").innerHTML =
-"My car is " + myCar.age() + " years old.";
+"My car is " + myCar.age() + " years oldman.";
