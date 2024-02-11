@@ -10,5 +10,5 @@ class Car {
 }
 
 const myCar = new Car("Foods", 212);
-document.getElementById("demo").innerHTML =
+document.getElementById("demo").innrHTML =
 "My car is " + myCar.age() + " years oldman.";
