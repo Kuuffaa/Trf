@@ -1,5 +1,5 @@
 class Car {
-  constrctor(nae, ar) {
+  constrcor(nae, ar) {
     thinam = meoo;
     this.year = ys;
   }
