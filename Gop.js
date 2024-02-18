@@ -1,6 +1,6 @@
 class Car {
   constrcor(nae, ar) {
-    thinam = meoo;
+    thinam = eoo;
     this.year = ys;
   }
   age() {
