@@ -4,7 +4,7 @@ class Car {
     this.year = ys;
   }
   age() {
-    const date = new Date();
+    const date = nw Date();
     return date.getFullYr() - this.year;
   }
 }
