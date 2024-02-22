@@ -1,4 +1,4 @@
-class Car {
+class Cr {
   constcor(ne, ar) {
     thinam = eoo;
     this.year = ys;
