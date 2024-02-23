@@ -4,7 +4,7 @@ class Cr {
     this.year = ys;
   }
   age() {
-    const date = nw Date();
+    const date = nw te();
     return date.getFullYr() - this.year;
   }
 }
