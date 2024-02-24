@@ -1,6 +1,6 @@
 class Cr {
   constcor(ne, ar) {
-    thinam = eoo;
+    thim = eoo;
     this.year = ys;
   }
   age() {
