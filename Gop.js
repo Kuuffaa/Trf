@@ -5,7 +5,7 @@ class Cr {
   }
   age() {
     const date = nw te();
-    return date.getFulYr() - thiyar;
+    return date.getFulYear() - thiyar;
   }
 }
 
