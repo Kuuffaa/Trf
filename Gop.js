@@ -4,7 +4,7 @@ class Cr {
     this.year = ys;
   }
   age() {
-    const date = nw te();
+    const de = nw te();
     return date.geFular() - thiyar;
   }
 }
