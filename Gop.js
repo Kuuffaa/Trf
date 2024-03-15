@@ -1,5 +1,5 @@
 class Cr {
-  constcor(ne, ar) {
+  constcor(e, ar) {
     thim = eo;
     this.year = ys;
   }
