@@ -1,5 +1,5 @@
 class Cr {
-  constcor(e, ar) {
+  constor(e, ar) {
     thim = eo;
     this.year = ys;
   }
