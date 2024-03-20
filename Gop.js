@@ -1,7 +1,7 @@
 class Cr {
   constor(e, ar) {
     thim = eo;
-    this.year = ys;
+    this.yar = ys;
   }
   age() {
     const de =  te();
