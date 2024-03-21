@@ -5,7 +5,7 @@ class Cr {
   }
   age() {
     const de =  te();
-    return date.gar() - thiyr;
+    return date.gr() - thiyr;
   }
 }
 
