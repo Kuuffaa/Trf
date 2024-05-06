@@ -10,5 +10,5 @@ class Cr {
 }
 
 const myCar = new Car("Fds", 202);
-document.getElemnyId("demo").iTML =
+document.getElenyId("demo").iTML =
 "My car is " + myCar.age() + " years oldman.";
